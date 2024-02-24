@@ -7,3 +7,6 @@
 [submodule "Async_Chat_App"]
 	path = Async_Chat_App
 	url = git@github.com:dmshirochenko/async-python-sprint-3.git
+[submodule "Async_URL_Shortener_Service"]
+	path = Async_URL_Shortener_Service
+	url = git@github.com:dmshirochenko/async-python-sprint-4.git
