@@ -10,3 +10,6 @@
 [submodule "Async_URL_Shortener_Service"]
 	path = Async_URL_Shortener_Service
 	url = git@github.com:dmshirochenko/async-python-sprint-4.git
+[submodule "Async_File_Storage_Service"]
+	path = Async_File_Storage_Service
+	url = git@github.com:dmshirochenko/async-python-sprint-5.git
