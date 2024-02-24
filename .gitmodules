@@ -1,3 +1,6 @@
 [submodule "Async_Weather_Analysis_Tool"]
 	path = Async_Weather_Analysis_Tool
 	url = git@github.com:dmshirochenko/async-python-sprint-1.git
+[submodule "Async_Task_Scheduler"]
+	path = Async_Task_Scheduler
+	url = git@github.com:dmshirochenko/async-python-sprint-2.git
