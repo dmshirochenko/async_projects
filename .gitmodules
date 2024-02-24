@@ -4,3 +4,6 @@
 [submodule "Async_Task_Scheduler"]
 	path = Async_Task_Scheduler
 	url = git@github.com:dmshirochenko/async-python-sprint-2.git
+[submodule "Async_Chat_App"]
+	path = Async_Chat_App
+	url = git@github.com:dmshirochenko/async-python-sprint-3.git
